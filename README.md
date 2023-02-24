@@ -27,9 +27,7 @@ To install this generator for yourself simply clone this repo or copy and paste 
 
 To use this generator after running the node index.js command in the terminal, answer the few questions you'll be prompted and you'll be greeted with your nicely set up README.md
 
-For more information on how to add screenshots for examples, visit the following website:
-
-[Mark Down Tutorial](https://agea.github.io/tutorial.md/)
+For Screenshots of code look into the Pics folder. (Video recorder wasn't working I'm sorry) :(
 
 ## [License](#table-of-contents)
 

@@ -1,56 +1,66 @@
-# Jacobs-ReadMe-Generator
 
-![badge](https://img.shields.io/badge/license-mit-blue)
+  # Jacobs-ReadMe-Generator
+  
+  
+  ![badge](https://img.shields.io/badge/license-mit-blue)
+    
 
-## Table-of-Contents
+  ## Table-of-Contents
 
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  
+  * [License](#license)
+    
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
+  
+  ## [Description](#table-of-contents)
 
-- [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
+  ReadMe generator/ Save time for anyone
 
-## [Description](#table-of-contents)
+  To help save time for everyone who's interested
 
-A README.md generator, which will help save time for users that are building projects. This will allow them to spend less time worrying about a README.md and more time coding!
+  run npm install after cloning to your local computer/ run node index.js in your integrated terminal to recieve prompts for ReadMe.
 
-Homewor- I mean this was made for the purpose to help people anywhere who are interested in coding and would like to try it out for themselves!
+  ## [Installation](#table-of-contents)
 
-Add - How
+  Go to the code files in my repo and clone to your computer. Open your terminal and run - npm install - after running the install you'll be able to run - node index.js - to recieve the prompts.
 
-## [Installation](#table-of-contents)
+  ## [Usage](#table-of-contents)
 
-Add - Installation
+  Instructions in Usage. Provided Pics:
+  
+  For more information on how to add screenshots for examples, visit the following website:
+  
+  [Mark Down Tutorial](https://agea.github.io/tutorial.md/)
+  
+  
+  ## [License](#table-of-contents)
 
-## [Usage](#table-of-contents)
+  The application is covered under the following license:
 
-Add - Usage
+  
+  [mit](https://choosealicense.com/licenses/mit)
+    
+    
 
-For more information on how to add screenshots for examples, visit the following website:
+  ## [Contributing](#table-of-contents)
+  
+  
+  Thank you for your interest in helping to improve the project! However, I will not be accepting contributions from anyone else.
+    
 
-[Mark Down Tutorial](https://agea.github.io/tutorial.md/)
+  ## [Tests](#table-of-contents)
 
-## [License](#table-of-contents)
+  To test app run node index.js after running npm install
 
-The application is covered under the following license:
+  ## [Questions](#table-of-contents)
 
-[mit](https://choosealicense.com/licenses/mit)
+  Please contact me using the following links:
 
-## [Contributing](#table-of-contents)
+  [GitHub](https://github.com/jacobgoreham)
 
-Thank you for your interest in helping to improve the project! However, I will not be accepting contributions from anyone else.
-
-## [Tests](#table-of-contents)
-
-To test the app on your own system, clone the repo or copy and paste the code manually, then open the code in your code editor and open a an integrated terminal. After doing so run the generator by doing "node index.js" in your terminal. This will run the code and prompt you with the questions your README.md will include.
-
-## [Questions](#table-of-contents)
-
-Please contact me using the following links:
-
-[GitHub](https://github.com/jacobgoreham)
-
-[Email: jacobgoreham@gmail.com](mailto:jacobgoreham@gmail.com)
+  [Email: jacobgoreham@gmail.com](mailto:jacobgoreham@gmail.com)
